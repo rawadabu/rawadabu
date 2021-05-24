@@ -36,7 +36,7 @@ I love the "team" nature of coding, working on projects alongside a team.
 Java,C,C++      ████████████████░░░░░░   65.00 % 
 Python          █████░░░░░░░░░░░░░░░░░   25.00 % 
 ASSEMBLY,HTML   ██░░░░░░░░░░░░░░░░░░░░   5 % 
-Other           ██░░░░░░░░░░░░░░░░░░░░   2 % 
+Other           ██░░░░░░░░░░░░░░░░░░░░   5 % 
 ```
 <!--END_SECTION:waka-->
 
