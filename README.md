@@ -19,7 +19,7 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![c++ Badge](https://img.shields.io/badge/-Python-black?logo=Python&style=social)](#)
+[![c++ Badge](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)](#)
 [![Javascript Badge](https://img.shields.io/badge/-.net-F0DB4F?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=F0DB4F)](#) 
 <br />
 <br />
