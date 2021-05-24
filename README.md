@@ -27,17 +27,16 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 <br />
 
 
-I love the "team" nature of coding, working on projects alongside a team. I'm currently working on
-a project in AI which categorizes music by genre and tags each song with possible moods and emotions.
+I love the "team" nature of coding, working on projects alongside a team.
 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
-Java,C,C++████████████████░░░░░░   70.00 % 
-Python    █████░░░░░░░░░░░░░░░░░   25.00 % 
-MD,HTML   ██░░░░░░░░░░░░░░░░░░░░   2.5 % 
-Other     ██░░░░░░░░░░░░░░░░░░░░   2.5 % 
+Java,C,C++      ████████████████░░░░░░   65.00 % 
+Python          █████░░░░░░░░░░░░░░░░░   25.00 % 
+ASSEMBLY,HTML   ██░░░░░░░░░░░░░░░░░░░░   5 % 
+Other           ██░░░░░░░░░░░░░░░░░░░░   2 % 
 ```
 <!--END_SECTION:waka-->
 
