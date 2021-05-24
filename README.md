@@ -24,10 +24,6 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 <br />
 
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eldinayal.eldinayal)
-
 <details>
 <summary>
   More stuff about me
@@ -51,6 +47,6 @@ Other     ██░░░░░░░░░░░░░░░░░░░░   2
 
 #### Github Stats
 
-![ayaleldin's github stats](https://github-readme-stats.vercel.app/api?username=eldinayal&count_private=true&theme=tokyonight&hide=contribs,prs)
+![rawadabu's github stats](https://github-readme-stats.vercel.app/api?username=rawadabu&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
