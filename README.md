@@ -13,13 +13,14 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 - 🔭 I’m currently a Student.
 - 🤔 I’m looking for interesting project to help on.
 - 📫 How to reach me: rawadabusaleh0@gmail.com.
-- ⚡ Talk to me about c++/python or java projects.
+- ⚡ Talk to me about c++,python or java projects.
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![python Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)](#) [![Javascript Badge](https://img.shields.io/badge/-.net-F0DB4F?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=F0DB4F)](#) 
+[![c++ Badge](https://img.shields.io/badge/-Python-black?logo=Python&style=social)](#)
+[![Javascript Badge](https://img.shields.io/badge/-.net-F0DB4F?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=F0DB4F)](#) 
 <br />
 <br />
 
