@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rawadabu/rawadabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hello I'm Rawad, Computer Scince Student at Tel-Hai Collage, what I like the most is coding, in my free time I am a gamer.
 The languages I use the most are c++,python and java.
 
