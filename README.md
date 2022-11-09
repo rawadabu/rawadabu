@@ -17,8 +17,15 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
 	
 
 <br />
@@ -27,19 +34,12 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 
 I love the "team" nature of coding, working on projects alongside a team.
 
-#### Coding Stats
+#### Github Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rawadabu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-```text
-Java,C,C++      ████████████████░░░░░░   65.00 % 
-Python          █████░░░░░░░░░░░░░░░░░   25.00 % 
-ASSEMBLY,HTML   ██░░░░░░░░░░░░░░░░░░░░   5 % 
-Other           ██░░░░░░░░░░░░░░░░░░░░   5 % 
-```
-<!--END_SECTION:waka-->
+#### Coding Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawadabu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Github Stats
-
-![rawadabu's github stats](https://github-readme-stats.vercel.app/api?username=rawadabu&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
