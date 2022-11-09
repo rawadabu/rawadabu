@@ -2,11 +2,10 @@
 
 I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the languages I use the most are c++,Python and Java.
 
-<p>
-  <a href="https://github.com/rawadabu/README.md/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
-</p>
+
+<div id="header" align="center">
+	<img src=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif />
+</div>
 
 :mailbox: Reach me out!
 
