@@ -4,7 +4,7 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 
 
 <div id="header" align="center">
-	<img src=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif />
+	<img src=https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif />
 </div>
 
 :mailbox: Reach me out!
