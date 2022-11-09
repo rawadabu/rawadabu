@@ -6,7 +6,7 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 <div id="header" align="center">
 	<img src=https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif />
 </div>
-
+:man_technologist:
 <div id="header" align="center">
  [![Linkedin Badge](https://img.shields.io/badge/-Rawad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawad-abusaleh-3494a01b1/) [![Mail Badge](https://img.shields.io/badge/-@rawadshakeb-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rawadshakeb) [![Mail Badge](https://img.shields.io/badge/-rawadabusaleh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rawadabusaleh0@gmail.com)
  <br>
