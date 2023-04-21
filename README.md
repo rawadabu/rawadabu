@@ -41,5 +41,6 @@ I love the "team" nature of coding, working on projects alongside a team.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawadabu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
