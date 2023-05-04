@@ -16,6 +16,10 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 
 #### Top Technologies
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rawadabu&skills=JavaScript,TypeScript&show-other-skills=true"
+/>
+
 <!-- TODO: Make technologies links takes you to repositories -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
