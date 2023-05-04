@@ -15,9 +15,6 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 - ⚡ Talk to me about c++,python or java projects.
 
 #### Top Technologies
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rawadabu&badges=2&show-avatar=false&style=--header-bg-color:%23ff0;--border-radius:10px"
-/>
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rawadabu&skills=JavaScript,TypeScript,C,C++,Python,SCSS,TypeScript,Java,JSON,CSS,HTML&show-other-skills=true"
