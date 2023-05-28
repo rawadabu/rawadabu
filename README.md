@@ -10,7 +10,7 @@ I'm Rawad, Computer Science Student at Tel-Hai Collage, I like coding and the la
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently a Student.
-- 🤔 Currently working on [weClean](/weClean) project.
+- 🤔 Currently working on [weClean](https://github.com/rawadabu/weClean) project.
 - 📫 How to reach me: rawadabusaleh0@gmail.com.
 - ⚡ Talk to me about c++,python or java projects.
 
